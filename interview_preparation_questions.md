@@ -9,7 +9,6 @@
 - What techniques help minimize query latency on wide fact tables (e.g., clustering, partition elimination, materialized views)?
 - How would you model semi-structured data (JSON, arrays) within an OLTP database without harming transactional guarantees?
 - Outline a blueprint for governing master data across regions while keeping OLTP replicas eventually consistent.
-____________________________________________________________________________Till here in doc
 
 ## Data Lakes / Lakehouses
 - What criteria guide your decision to land data in bronze/silver/gold zones, and how do you enforce those contracts?
@@ -95,4 +94,4 @@ ____________________________________________________________________________Till
 - Explain how you plan capacity and cost allocation for shared data platforms.
 - How do you communicate architecture decisions and trade-offs to stakeholders (ADR templates, RFCs, architecture reviews)?
 
-
+________________________________________________________________________Till here is done
